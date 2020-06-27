@@ -46,6 +46,7 @@ description:
 
 #### Community service
 
++ **Tech Events co-chair** @[Women@CL, Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/women)
 + **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/)
 + **Representative of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum)
 + **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/)
