@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A year in books
-date:   2020-06-21 
+date:   2020-06-29 
 description: Musings after reading (to be updated)
 ---
 
@@ -10,9 +10,13 @@ description: Musings after reading (to be updated)
 
 <i><span style="background-color: #efe5de">Margaret Atwood - The Testaments</span></i>
 
-<i><span style="background-color: #efe5de">Malcolm Gladwell - Outliers: The Story of Success</span></i>
-
 <i><span style="background-color: #efe5de">Pete Walker - Complex PTSD: From Surviving to Thriving</span></i>
+
+<i><span style="background-color: #efe5de">Gene Stone and Michael Greger - How Not to Die</span></i>
+
+<i><span style="background-color: #efe5de">Benjamin Dreyer - Dreyer's English: An Utterly Correct Guide to Clarity and Style</span></i>
+
+<i><span style="background-color: #efe5de">Malcolm Gladwell - Outliers: The Story of Success</span></i>
 
 <i><span style="background-color: #efe5de">Stephen King - On Writing: A Memoir of the Craft</span></i>
 
