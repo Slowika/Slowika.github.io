@@ -1,20 +1,11 @@
 ---
 layout: post
 title:  A year in books
-date:   2020-06-29 
+date:   2020-07-26 
 description: Musings after reading (to be updated)
 ---
 
-
-<i><span style="background-color: #efe5de">Daniel Kahneman - Thinking, Fast and Slow</span></i>
-
-<i><span style="background-color: #efe5de">Margaret Atwood - The Testaments</span></i>
-
-<i><span style="background-color: #efe5de">Pete Walker - Complex PTSD: From Surviving to Thriving</span></i>
-
-<i><span style="background-color: #efe5de">Gene Stone and Michael Greger - How Not to Die</span></i>
-
-<i><span style="background-color: #efe5de">Benjamin Dreyer - Dreyer's English: An Utterly Correct Guide to Clarity and Style</span></i>
+<span style="color:green"> **Reading is one of my greatest pleasures in life. It is a form of meditation and an excercise in attention. Being able to focus on one thing for an extended period of time is sadly a degrading skill and attention is our scarcest resource. Even though reading might seem passive, it is also an active experience of connecting the content with my existing knowledge and thoughts. This year I started keeping track of the books I read and I am trying to summarize the way each book resonates with me. I will be happy to receive book recommendations. Apart from machine learning research and development I am interested in (among others) biographies, human language and communication, game theory in "real life", trustworthy and approachable sources on health and psychology.**</span>
 
 <i><span style="background-color: #efe5de">Malcolm Gladwell - Outliers: The Story of Success</span></i>
 
