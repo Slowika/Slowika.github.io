@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2020-03-13
+date: 2020-02-17 
 inline: true
 ---
 
-I presented a [poster](https://www.dropbox.com/s/3jnfbjeiidzspfn/RL.png?dl=0) at the [14th Annual Machine Learning Symposium](https://www.nyas.org/events/2020/14th-annual-machine-learning-symposium/)!
+I joined the [Mila AI Institute of Quebec](https://mila.quebec/en/) as a Research Intern supervised by [Yoshua Bengio](https://yoshuabengio.org/).
+
+
