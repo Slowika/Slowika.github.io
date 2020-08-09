@@ -1,11 +1,16 @@
 ---
 layout: post
 title:  A year in books
-date:   2020-07-26 
-description: Musings after reading (to be updated)
+date:   2020-08-09 
+description: Musings after reading (personal, to be updated)
 ---
 
 <span style="color:green"> **Reading is one of my greatest pleasures in life. It is a form of meditation and an exercise in attention. Being able to focus on one thing for an extended period of time is sadly a degrading skill and attention is our scarcest resource. Even though reading might seem passive, it is also an active experience of connecting the content with my existing knowledge and thoughts. This year I started keeping track of the books I read and I am trying to summarize the way each book resonates with me. I am happy to receive book recommendations. Apart from machine learning research and development I am interested in (among others) biographies, human language and communication, game theory in "real life", trustworthy and approachable sources on health and psychology.**</span>
+
+
+<i><span style="background-color: #efe5de">Przemysław Chojecki - Jak być dwudziestolatkiem</span></i>
+
+I read it in a day. I like the crisp sentences and the light style - the book is not grounded in the Polish exuberant writing style and it would read very well in the English version. It is a collection of honest, personal thoughts (at no point did I feel a "curated self-image!" alert) of a relatable and likeable guy, with personal values of freedom, constant learning and curiosity. I like that it highlights the idea that people who have experienced a lot (for example, in terms of the number of degrees and professions they have, and the countries they lived in) are not superhumans and rather those who find it worth it to stress more for the sake of curiosity, impact and exploration. 
 
 <i><span style="background-color: #efe5de">Malcolm Gladwell - Outliers: The Story of Success</span></i>
 
