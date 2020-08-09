@@ -9,6 +9,8 @@ description: Musings after reading (to be updated)
 
 <i><span style="background-color: #efe5de">Malcolm Gladwell - Outliers: The Story of Success</span></i>
 
+I like that the title suggests a collection of impressive biographies (or a recipe for success) and the actual book talks about the random and external factors behind a "success". Discussing non-individual factors behind professional achievements in a way that does not undermine the hard work is tricky. Reading this book supports inner peace: it is very humbling and I love the fact that it discourages from gatekeeping and making quick judgements about others. People working in academia and machine learning researchers, as it were, tend to be slightly more on the individualistic and competitive side. I have no idea how to build a more human, less superficial and less competitive society, but it is already a lot to strengthen and cultivate such values in one's own head. I was a bit uncomfortable with the last chapters on cultural background and "why Asians are good at math", these stories and hypotheses could have been presented in a more inclusive way: hearing the actual voices of people with such heritage would have been more interesting. 
+
 <i><span style="background-color: #efe5de">Stephen King - On Writing: A Memoir of the Craft</span></i>
 
 Table of contents:
