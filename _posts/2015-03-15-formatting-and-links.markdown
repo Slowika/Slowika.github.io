@@ -5,8 +5,7 @@ date:   2020-08-09
 description: Musings after reading (personal, to be updated)
 ---
 
-<span style="color:green"> **Reading is one of my greatest pleasures in life. It is a form of meditation and an exercise in attention. Being able to focus on one thing for an extended period of time is sadly a degrading skill and attention is our scarcest resource. Even though reading might seem passive, it is also an active experience of connecting the content with my existing knowledge and thoughts. This year I started keeping track of the books I read and I am trying to summarize the way each book resonates with me. I am happy to receive book recommendations. Apart from machine learning research and development I am interested in (among others) biographies, human language and communication, game theory in "real life", trustworthy and approachable sources on health and psychology.**</span>
-
+<span style="color:green"> **Reading is one of my greatest pleasures in life. It is a form of meditation and an exercise in attention. Being able to focus on one thing for an extended period of time is sadly a degrading skill and attention is our scarcest resource. Even though reading might seem passive, it is also an active experience of connecting the content with my existing knowledge and thoughts. This year I started keeping track of the books I read and I am trying to summarise the way each book resonates with me. I am happy to receive book recommendations. Apart from machine learning research and development I am interested in (among others) biographies, human language and communication, game theory in "real life", trustworthy and approachable sources on health and psychology.**</span>
 
 <i><span style="background-color: #efe5de">Przemysław Chojecki - Jak być dwudziestolatkiem</span></i>
 
