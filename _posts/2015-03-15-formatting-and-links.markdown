@@ -11,7 +11,7 @@ description: Musings after reading (personal, to be updated)
 
 <i><span style="background-color: #efe5de">Aleksandra Więcka - Jak mówić o sobie dobrze</span></i>
 
-Despite the title ("How to talk well about yourself") the book is about creating any kind of stories. It also includes general tips for public speaking. It has a bit of a feminist tinge: there are captivating life stories of successful women and descriptions of studies on the differences in the reception of male and female speakers. Favourite word from this book: <i>cantadora</i>.
+Despite the title ("How to talk well about yourself") the book is about creating any kind of stories. It also includes general tips for public speaking. It has a bit of a feminist tinge: there are captivating life stories of successful women and descriptions of studies on differences in the reception of male and female speakers. Favourite word from this book: <i>cantadora</i>.
 
 <i><span style="background-color: #efe5de">Przemysław Chojecki - Jak być dwudziestolatkiem</span></i>
 
