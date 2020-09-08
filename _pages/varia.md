@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /varia/
-title: Varia
+permalink: /cv/
+title: CV
 description: 
 ---
 
-### [CV](https://www.dropbox.com/s/tdmei96id7vtysd/academic_cv_updated.pdf?dl=0)
+### [CV](https://www.dropbox.com/s/a8vdeis5mi27abp/academic_cv_updated%281%29.pdf?dl=0)
 
 #### Teaching experience
 
