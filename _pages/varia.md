@@ -9,12 +9,12 @@ description:
 
 #### Teaching experience
 
-+ **Teaching assistant** @[AI4GoodLab 2020](https://www.ai4goodlab.com/)
-+ **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)
-+ **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/)
-+ **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/)
-+ **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[SLIDES](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)]
-+ **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl)
++ **Teaching assistant** @[AI4GoodLab 2020](https://www.ai4goodlab.com/) *May-July 2020*
++ **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0) *February 2020*
++ **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/) *Easter term 2019, Easter term 2021*
++ **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/) *Lent term 2019*
++ **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[SLIDES](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)] *July 2019*
++ **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl) *2015*
 
 #### Talks
 
@@ -41,15 +41,15 @@ description:
 
 #### Organisation of scientific events
 
-+ **Organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland.
++ **Organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland. *2015*
 + **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018).
 
 #### Community service
 
-+ **Tech Events co-chair** @[Women@CL, Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/women)
-+ **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/)
-+ **Representative of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum)
-+ **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/)
++ **Tech Events co-chair** @[Women@CL, Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/women) *2020-2021*
++ **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/) *2019-2021*
++ **Representative of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum) *2019-2021*
++ **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/) *2014-2015*
 
 #### Panelist
 + *[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)*
