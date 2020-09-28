@@ -46,10 +46,11 @@ description:
 
 #### Community service
 
++ **Vice President** @[Cambridge University Algorithmic Trading Society](https://www.cuats.co.uk/) *2020-2021*
 + **Tech Events co-chair** @[Women@CL, Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/women) *2020-2021*
 + **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/) *2019-2021*
 + **Representative of the AI group at the Department of Computer Science and Technology, University of Cambridge** @[Graduate Students' Forum](https://www.cst.cam.ac.uk/local/phd/gradforum) *2019-2021*
-+ **Vice-president** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/) *2014-2015*
++ **Vice President** @[Jagiellonian Robotics Association](https://www.facebook.com/nkrsiuj/) *2014-2015*
 
 #### Panelist
 + *[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0)*
