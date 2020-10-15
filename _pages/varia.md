@@ -11,6 +11,7 @@ description:
 
 + **Teaching assistant** @[AI4GoodLab 2020](https://www.ai4goodlab.com/) *May-July 2020*
 + **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0) *February 2020*
++ **Mentor** @[Big Sister, Little Sister](https://www.cst.cam.ac.uk/women/mentoring) *2020-2021*
 + **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/) *Easter term 2019, Easter term 2021*
 + **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/) *Lent term 2019*
 + **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[SLIDES](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)] *July 2019*
@@ -26,6 +27,8 @@ description:
 
 ##### Conferences
 
++ *[The 24th International Conference on Artificial Intelligence and Statistics (AISTATS 2021)](http://aistats.org/aistats2021/)*
++ *[ICLR 2021 - Ninth International Conference on Learning Representations](https://iclr.cc/Conferences/2021/Dates)*
 + *[Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020)](https://nips.cc/Conferences/2020/)*
 + *[The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)](https://2020.emnlp.org/)*
 + *[International Conference on Machine Learning  2020 (ICML 2020)](https://icml.cc)*
