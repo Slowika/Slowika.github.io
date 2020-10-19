@@ -5,8 +5,6 @@ title: CV
 description: 
 ---
 
-### [CV (pdf)](https://www.dropbox.com/s/a8vdeis5mi27abp/academic_cv_updated%281%29.pdf?dl=0)
-
 #### Leadership and community service
 
 + **Vice President** @[Cambridge University Algorithmic Trading Society](https://www.cuats.co.uk/) *2020-2021*
@@ -90,3 +88,5 @@ description:
 #### Team sports
 
 *Novice rower at [Lucy Cavendish College Boat Club](https://lccbc.soc.srcf.net/) since Michaelmas term 2020*
+
+### [CV (pdf)](https://www.dropbox.com/s/a8vdeis5mi27abp/academic_cv_updated%281%29.pdf?dl=0)
