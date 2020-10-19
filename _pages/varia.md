@@ -25,7 +25,7 @@ description:
 
 #### Talks
 
-+ **Multi-Agent Communication: The story so far** @[AI Research Group Talks](AI & NLP Day)[[RECORDING](https://drive.google.com/file/d/1wtjJYPs1f9BtWkAZPB-rldL-EY-rIop0/view?usp=sharing)]
++ **Multi-Agent Communication: The story so far** @[AI & NLP Day](https://nlpday.pl/) [[RECORDING](https://drive.google.com/file/d/1wtjJYPs1f9BtWkAZPB-rldL-EY-rIop0/view?usp=sharing)]
 + **Emergent Multi-Agent Communication: The story so far** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/144160) [[SLIDES]( https://www.dropbox.com/s/zb4wuz7ltcxcy9n/EmCom_ASlowik.pdf?dl=0)]
 + **Graph Convolutional Neural Networks** @[GMUM Seminar](https://gmum.net/seminars.html) [[SLIDES](https://www.dropbox.com/s/powoh2p0qxtvqh2/gmum_tea.pdf?dl=0)]
 + **Dilated DenseNets for Relational Reasoning** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/121813) [[SLIDES](https://www.dropbox.com/s/bu3umc7np5scz57/AI_lunch.pdf?dl=0)]
