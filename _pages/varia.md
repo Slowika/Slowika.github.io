@@ -89,4 +89,4 @@ description:
 
 *Novice rower at [Lucy Cavendish College Boat Club](https://lccbc.soc.srcf.net/) since Michaelmas term 2020*
 
-### [CV (pdf)](https://www.dropbox.com/s/a8vdeis5mi27abp/academic_cv_updated%281%29.pdf?dl=0)
+### [CV (pdf)](https://www.dropbox.com/s/nexa9vgefjh96wq/academic_cv_updated%281%29%20%282%29.pdf?dl=0)
