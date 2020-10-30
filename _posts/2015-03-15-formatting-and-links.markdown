@@ -4,7 +4,7 @@ title:  A year in books
 date:   2020-10-30 
 ---
 
-<i><span style="background-color: #efe5de">Przemysław Chojecki - Bystry potok/span></i>
+<i><span style="background-color: #efe5de">Przemysław Chojecki - Bystry potok</span></i>
 
 <i><span style="background-color: #efe5de">Margaret Atwood - The Testaments</span></i>
 
