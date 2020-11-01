@@ -12,6 +12,10 @@ title: Publications
 
 # Accepted 
 
+* <span style="font-size:20px"> Aubin B., **Słowik A.**, Arjovsky M., Bottou L., Lopez-Paz D. (2020) **Linear unit-tests for invariance discovery**. *NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning.* </span>
+
+<span style="color:green;font-size:20px"> TLDR: There is an increasing interest in algorithms able to learn invariant correlations across training environments. A big share of the current proposals find theoretical support in the causality literature, but how useful are they in practice? The purpose of this note is to propose six linear low-dimensional problems—“unit tests”—to evaluate out-of-distribution generalization algorithms. Following initial experiments, none of three recently proposed alternatives pass these tests. By providing the code to automatically replicate all the results in this manuscript, we hope that these unit tests become a standard stepping stone for researchers in out-of-distribution generalization. </span>
+ 
 * <span style="font-size:20px"> Guo S., Ren Y., **Słowik A.**, Mathewson K. (2020) **Inductive Bias and Language Expressivity in Emergent Communication**. *4th NeurIPS Workshop on Emergent Communication: Talking to Strangers: Zero-Shot Emergent Communication.* </span>
 
 <span style="color:green;font-size:20px"> TLDR: Referential games and reconstruction games are the most common game types for studying emergent languages. We investigate how the type of the language game affects the emergent language in terms of: i) language compositionality and ii) transfer of an emergent language to a task different from its origin, which we refer to as language expressivity. With empirical experiments on a handcrafted symbolic dataset, we show that languages emerged from different games have different compositionality and further different expressivity. </span>
