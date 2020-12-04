@@ -15,6 +15,7 @@ description:
 
 #### Teaching experience
 
++ **Assistant** @MPhil course: “How to write an abstract” *December 2020*
 + **Teaching Assistant** @[AI4GoodLab 2020](https://www.ai4goodlab.com/) *May-July 2020*
 + **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0) *February 2020*
 + **Mentor** @[Big Sister, Little Sister](https://www.cst.cam.ac.uk/women/mentoring) *2020-2021*
@@ -25,6 +26,7 @@ description:
 
 #### Talks
 
++ **Linear unit tests for invariance discovery** @[NeurIPS 2020 Workshop Causal Discovery & Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) [[RECORDING](https://www.youtube.com/watch?v=2e7LOI-qPaY)]
 + **Multi-Agent Communication: The story so far** @[AI & NLP Day](https://nlpday.pl/) [[RECORDING](https://drive.google.com/file/d/1wtjJYPs1f9BtWkAZPB-rldL-EY-rIop0/view?usp=sharing)]
 + **Emergent Multi-Agent Communication: The story so far** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/144160) [[SLIDES]( https://www.dropbox.com/s/zb4wuz7ltcxcy9n/EmCom_ASlowik.pdf?dl=0)]
 + **Graph Convolutional Neural Networks** @[GMUM Seminar](https://gmum.net/seminars.html) [[SLIDES](https://www.dropbox.com/s/powoh2p0qxtvqh2/gmum_tea.pdf?dl=0)]
@@ -71,6 +73,7 @@ description:
 
 #### Organisation of scientific events
 
++ **Committee member** @[Oxbridge Women in Computer Science Conference 2020](https://oxbridgewomenincs8.wixsite.com/2020).
 + **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018).
 + **Organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland. *2015*
 
