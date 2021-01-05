@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A year in books: 2020
+title:  2020 in books
 date:   2020-12-31 
 ---
 
