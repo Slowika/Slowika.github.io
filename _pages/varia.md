@@ -15,12 +15,14 @@ description:
 
 #### Teaching experience
 
-+ **Assistant** @MPhil course: “How to write an abstract” *December 2020*
++ **Mentor** @[Schmidt Data for Science Residency Programme, University of Cambridge](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme) *February-March 2021*
++ **Demonstrator** @[Machine Learning and Real-world Data, University of Cambridge](https://www.cl.cam.ac.uk/teaching/2021/MLRD/) *Lent term 2021*
++ **Assistant** @MPhil course: “How to write an abstract”, University of Cambridge *December 2020*
 + **Teaching Assistant** @[AI4GoodLab 2020](https://www.ai4goodlab.com/) *May-July 2020*
 + **Mentor** @[TryAI, co-located with AAAI2020](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0) *February 2020*
 + **Mentor** @[Big Sister, Little Sister](https://www.cst.cam.ac.uk/women/mentoring) *2020-2021*
-+ **Supervisor** @[Aritificial Intelligence](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/) *Easter term 2019, Easter term 2021*
-+ **Lab assistant** @[Algorithms](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/) *Lent term 2019*
++ **Supervisor** @[Aritificial Intelligence, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1819/ArtInt/) *Easter term 2019, Easter term 2021*
++ **Lab assistant** @[Algorithms, University of Cambridge](https://www.cl.cam.ac.uk/teaching/1920/Algorithms/) *Lent term 2019*
 + **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[SLIDES](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)] *July 2019*
 + **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl) *2015*
 
