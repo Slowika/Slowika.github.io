@@ -27,7 +27,7 @@ social: true
 
 Hi, thanks for visiting my website! My name is Agnieszka (either /aɡˈɲɛʂ.ka/ or Aga works). 
 
-I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge. In 2020, I interned at [Facebook AI Research](https://ai.facebook.com/) where I was mentored by [Léon Bottou](https://leon.bottou.org/).
+I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge. In 2020, I interned at [Facebook AI Research](https://ai.facebook.com/) where I was hosted by [Léon Bottou](https://leon.bottou.org/).
 
 My PhD supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/). I spent 10 months of my PhD as a Research Intern at [Mila](https://mila.quebec/en/) where I was supervised by [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/), [Anirudh Goyal](https://anirudh9119.github.io) and [Yoshua Bengio](https://yoshuabengio.org). 
 
