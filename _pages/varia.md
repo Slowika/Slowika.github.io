@@ -15,6 +15,7 @@ description:
 
 #### Teaching experience
 
++ **Supervisor** @[Introduction to Probability, University of Cambridge](https://www.cl.cam.ac.uk/teaching/2021/IntroProb/) *Easter term 2021*
 + **Mentor** @[Schmidt Data for Science Residency Programme, University of Cambridge](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme) *February-March 2021*
 + **Demonstrator** @[Machine Learning and Real-world Data, University of Cambridge](https://www.cl.cam.ac.uk/teaching/2021/MLRD/) *Lent term 2021*
 + **Assistant** @MPhil course: “How to write an abstract”, University of Cambridge *December 2020*
