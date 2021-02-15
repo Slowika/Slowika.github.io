@@ -25,7 +25,7 @@ news: true
 social: true
 ---
 
-Hi, thanks for visiting my website! My name is Agnieszka (either /aɡˈɲɛʂ.ka/ or Aga works). 
+Hi, thanks for visiting my website! My name is Agnieszka. (Either /aɡˈɲɛʂ.ka/ or Aga works. Coincidence with [AGA](https://en.wikipedia.org/wiki/AGA_cooker) and [Agha](https://en.wikipedia.org/wiki/Agha_(title)) is accidental.) 
 
 I am a second-year PhD student within the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/) at the University of Cambridge. In 2020, I interned at [Facebook AI Research](https://ai.facebook.com/) where I was hosted by [Léon Bottou](https://leon.bottou.org/).
 
@@ -33,7 +33,7 @@ My PhD supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mate
 
 <span style="color:green;font-size:20px"> **My PhD topic: Understanding and improving out-of-distribution generalisation in machine learning. I use inductive biases to devise models for multi-agent communication, visual reasoning and causal discovery.**</span> <a href="https://twitter.com/slowiika?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @slowiika</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Apart from research, I teach programming and applied machine learning at [Cambridge Spark](https://cambridgespark.com/). I also do my best to contribute to the departmental activities as well as to the broad machine learning research community (most recently, as a reviewer for [AISTATS 2021](http://aistats.org/aistats2021/), [ICLR 2021](https://iclr.cc/Conferences/2021/Dates), [ICML 2020](https://icml.cc), [EMNLP 2020](https://2020.emnlp.org/) and [NeurIPS 2020](https://nips.cc/Conferences/2020/)). 
+Apart from research, I teach maths, programming and applied machine learning at [Cambridge Spark](https://cambridgespark.com/). I also do my best to contribute to the departmental activities as well as to the broad machine learning research community (most recently, as a reviewer for [AISTATS 2021](http://aistats.org/aistats2021/), [ICLR 2021](https://iclr.cc/Conferences/2021/Dates), [ICML 2020](https://icml.cc), [EMNLP 2020](https://2020.emnlp.org/) and [NeurIPS 2020](https://nips.cc/Conferences/2020/)). 
 
 I hold an MSc with Distinction in Operational Research with Data Science from the University of Edinburgh (a joint programme between School of Mathematics and School of Informatics). In my [MSc thesis](https://www.dropbox.com/s/gvxaaxrqvkjr2np/thesis.pdf?dl=0) I proposed a new approach to relational reasoning with convolutional neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my BSc thesis I investigated probability distributions defining random projections in extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com).
 
