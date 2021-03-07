@@ -7,6 +7,7 @@ description:
 
 #### Leadership and community service
 
++ **Assisting with technical interviews** @[Department of Computer Science and Technology, University of Cambridge], *2020*
 + **Vice President** @[Cambridge University Algorithmic Trading Society](https://www.cuats.co.uk/) *2020-2021*
 + **Tech Events Co-Chair** @[Women@CL, Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/women) *2020-2021*
 + **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/) *2019-2021*
@@ -29,6 +30,9 @@ description:
 
 #### Talks
 
+
++ **Understanding and improving out-of-distribution generalisation + Q&A** [[RECORDING](https://www.youtube.com/watch?v=W3XE9yD5H4A)] (invited talk)
++ **Out-of-distribution generalisation in image classification** @[18th Polish Science Cafe by Cambridge University Polish Society](http://polsoc.soc.srcf.net/) [[SLIDES](https://www.dropbox.com/s/mdyptg6pqj9iauv/PolSoc%283%29.pdf?dl=0)] (invited talk)
 + **Linear unit tests for invariance discovery** @[NeurIPS 2020 Workshop Causal Discovery & Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) [[RECORDING](https://www.youtube.com/watch?v=2e7LOI-qPaY)]
 + **Multi-Agent Communication: The story so far** @[AI & NLP Day](https://nlpday.pl/) [[RECORDING](https://drive.google.com/file/d/1wtjJYPs1f9BtWkAZPB-rldL-EY-rIop0/view?usp=sharing)]
 + **Emergent Multi-Agent Communication: The story so far** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/144160) [[SLIDES]( https://www.dropbox.com/s/zb4wuz7ltcxcy9n/EmCom_ASlowik.pdf?dl=0)]
