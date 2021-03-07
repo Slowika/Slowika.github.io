@@ -7,7 +7,7 @@ description:
 
 #### Leadership and community service
 
-+ **Assisting with technical interviews** @[Department of Computer Science and Technology, University of Cambridge], *2020*
++ **Assisting with technical interviews** @[Department of Computer Science and Technology, University of Cambridge]https://www.cst.cam.ac.uk/(), *2020*
 + **Vice President** @[Cambridge University Algorithmic Trading Society](https://www.cuats.co.uk/) *2020-2021*
 + **Tech Events Co-Chair** @[Women@CL, Department of Computer Science and Technology, University of Cambridge](https://www.cst.cam.ac.uk/women) *2020-2021*
 + **Representative of the PhD students** @[Equality and Diversity Committee at the Department of Computer Science and Technology, University of Cambridge](https://www.cl.cam.ac.uk/local/committees/athena-swan/) *2019-2021*
