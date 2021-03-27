@@ -16,6 +16,7 @@ description:
 
 #### Teaching experience
 
++ **Machine Learning Tutor** @[Cambridge Spark](https://cambridgespark.com/) *2021 - ...*
 + **Supervisor** @[Introduction to Probability, University of Cambridge](https://www.cl.cam.ac.uk/teaching/2021/IntroProb/) *Easter term 2021*
 + **Mentor** @[Schmidt Data for Science Residency Programme, University of Cambridge](https://www.cst.cam.ac.uk/news/schmidt-data-science-residency-programme) *February-March 2021*
 + **Demonstrator** @[Machine Learning and Real-world Data, University of Cambridge](https://www.cl.cam.ac.uk/teaching/2021/MLRD/) *Lent term 2021*
@@ -80,9 +81,10 @@ description:
 
 #### Organisation of scientific events
 
++ **Co-organiser (Speakers Team)** @[ML in PL](https://mlinpl.org/) *2021*
 + **Committee member** @[Oxbridge Women in Computer Science Conference 2020](https://oxbridgewomenincs8.wixsite.com/2020).
 + **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018).
-+ **Organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland. *2015*
++ **Co-organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland. *2015*
 
 #### Outreach and writing
 
@@ -94,9 +96,5 @@ description:
 #### Foreign languages
 
 *Polish (native), English (fluent), Italian (intermediate), French (intermediate), German (basic)*
-
-#### Team sports
-
-*Novice rower at [Lucy Cavendish College Boat Club](https://lccbc.soc.srcf.net/) since Michaelmas term 2020*
 
 ### [CV (pdf)](https://www.dropbox.com/s/g9e3e9y6unicxve/academic_cv_updated%286%29.pdf?dl=0)
