@@ -4,6 +4,15 @@ permalink: /cv/
 title: CV
 description: 
 ---
+#### Invited talks
+
++ **Understanding and improving out-of-distribution generalisation + Q&A** [[RECORDING](https://www.youtube.com/watch?v=W3XE9yD5H4A)] 
++ **Out-of-distribution generalisation in image classification** @[18th Polish Science Cafe by Cambridge University Polish Society](http://polsoc.soc.srcf.net/) [[SLIDES](https://www.dropbox.com/s/mdyptg6pqj9iauv/PolSoc%283%29.pdf?dl=0)] 
++ **Linear unit tests for invariance discovery** @[NeurIPS 2020 Workshop Causal Discovery & Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) [[RECORDING](https://www.youtube.com/watch?v=2e7LOI-qPaY)]
++ **Multi-Agent Communication: The story so far** @[AI & NLP Day](https://nlpday.pl/) [[RECORDING](https://drive.google.com/file/d/1wtjJYPs1f9BtWkAZPB-rldL-EY-rIop0/view?usp=sharing)]
++ **Emergent Multi-Agent Communication: The story so far** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/144160) [[SLIDES]( https://www.dropbox.com/s/zb4wuz7ltcxcy9n/EmCom_ASlowik.pdf?dl=0)]
++ **Graph Convolutional Neural Networks** @[GMUM Seminar](https://gmum.net/seminars.html) [[SLIDES](https://www.dropbox.com/s/powoh2p0qxtvqh2/gmum_tea.pdf?dl=0)]
++ **Dilated DenseNets for Relational Reasoning** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/121813) [[SLIDES](https://www.dropbox.com/s/bu3umc7np5scz57/AI_lunch.pdf?dl=0)]
 
 #### Leadership and community service
 
@@ -29,16 +38,6 @@ description:
 + **Lecturer** @[Experience Cambridge](https://www.undergraduate.study.cam.ac.uk/events/summer-schools/experience-cambridge) [[SLIDES](https://www.dropbox.com/s/4g51v63viukh390/ExperienceCambridgeML.pdf?dl=0)] *July 2019*
 + **Programming Tutor** @[Women in Technology (Poland)](https://womenintechnology.pl) *2015*
 
-#### Talks
-
-
-+ **Understanding and improving out-of-distribution generalisation + Q&A** [[RECORDING](https://www.youtube.com/watch?v=W3XE9yD5H4A)] (invited talk)
-+ **Out-of-distribution generalisation in image classification** @[18th Polish Science Cafe by Cambridge University Polish Society](http://polsoc.soc.srcf.net/) [[SLIDES](https://www.dropbox.com/s/mdyptg6pqj9iauv/PolSoc%283%29.pdf?dl=0)] (invited talk)
-+ **Linear unit tests for invariance discovery** @[NeurIPS 2020 Workshop Causal Discovery & Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) [[RECORDING](https://www.youtube.com/watch?v=2e7LOI-qPaY)]
-+ **Multi-Agent Communication: The story so far** @[AI & NLP Day](https://nlpday.pl/) [[RECORDING](https://drive.google.com/file/d/1wtjJYPs1f9BtWkAZPB-rldL-EY-rIop0/view?usp=sharing)]
-+ **Emergent Multi-Agent Communication: The story so far** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/144160) [[SLIDES]( https://www.dropbox.com/s/zb4wuz7ltcxcy9n/EmCom_ASlowik.pdf?dl=0)]
-+ **Graph Convolutional Neural Networks** @[GMUM Seminar](https://gmum.net/seminars.html) [[SLIDES](https://www.dropbox.com/s/powoh2p0qxtvqh2/gmum_tea.pdf?dl=0)]
-+ **Dilated DenseNets for Relational Reasoning** @[AI Research Group Talks](https://talks.cam.ac.uk/talk/index/121813) [[SLIDES](https://www.dropbox.com/s/bu3umc7np5scz57/AI_lunch.pdf?dl=0)]
 
 #### Reviewer
 

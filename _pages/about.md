@@ -37,7 +37,7 @@ Apart from research, I teach maths, programming and applied machine learning at 
 
 I hold an MSc with Distinction in Operational Research with Data Science from the University of Edinburgh (a joint programme between the School of Mathematics and the School of Informatics). In my [MSc thesis](https://www.dropbox.com/s/gvxaaxrqvkjr2np/thesis.pdf?dl=0) I proposed a new approach to relational reasoning with convolutional neural networks. I also hold a BSc degree in Computer Science from the Jagiellonian University. In my BSc thesis I investigated probability distributions defining random projections in extreme learning machines under supervision of [Wojciech Czarnecki](http://wojciechczarnecki.com).
 
-Before my PhD, I had an opportunity to intern in data science and software engineering at IBM, Architech and Barclays UK.
+Before my PhD, I interned and worked part-time as a Data Scientist and Software Engineer at IBM, Architech and Barclays UK.
 
 I'm a traveller at heart: I visited 35 countries and lived in five so far. On that note, I had a chance to learn four foreign languages, which allows me to throw awkward sentences in attempts at icebreaking to this day. I also love mountains, reading and [Andrej Ivašković](https://www.cl.cam.ac.uk/~ai294/).
 
