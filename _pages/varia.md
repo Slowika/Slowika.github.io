@@ -96,4 +96,4 @@ description:
 
 *Polish (native), English (fluent), Italian (intermediate), French (intermediate), German (basic)*
 
-### [CV (pdf)](https://www.dropbox.com/s/x9ltex0ww5g3ny9/academic_cv_updated%289%29.pdf?dl=0)
+### [CV (pdf)](https://www.dropbox.com/s/794lj442us6oe0i/CV_ASlowik_May2021.pdf?dl=0)
