@@ -95,5 +95,3 @@ description:
 #### Foreign languages
 
 *Polish (native), English (fluent), Italian (intermediate), French (intermediate), German (basic)*
-
-### [CV (pdf)](https://www.dropbox.com/s/794lj442us6oe0i/CV_ASlowik_May2021.pdf?dl=0)
