@@ -38,7 +38,7 @@ My PhD supervisors are [Sean Holden](https://www.cl.cam.ac.uk/~sbh11/) and [Mate
 I spent 10 months of my PhD as a Research Intern at [Mila](https://mila.quebec/en/) where I collaborated with [William L. Hamilton](https://www.cs.mcgill.ca/~wlh/) and [Yoshua Bengio](https://yoshuabengio.org). 
 
 
-Apart from research, I teach maths, programming and applied machine learning at [Cambridge Spark](https://cambridgespark.com/). I also do my best to contribute to the departmental activities as well as to the broad machine learning research community (most recently, as a reviewer for [AISTATS 2021](http://aistats.org/aistats2021/), [ICLR 2021](https://iclr.cc/Conferences/2021/Dates), [ICML 2020](https://icml.cc), [EMNLP 2020](https://2020.emnlp.org/) and [NeurIPS 2020](https://nips.cc/Conferences/2020/)). 
+Apart from research, I teach maths, programming and applied machine learning at [Cambridge Spark](https://cambridgespark.com/). I also do my best to contribute to the departmental activities as well as to the broad machine learning research community (most recently, as a reviewer for [NeurIPS 2021](https://nips.cc/Conferences/2021/Dates), [AISTATS 2021](http://aistats.org/aistats2021/), [ICLR 2021](https://iclr.cc/Conferences/2021/Dates), [ICML 2020](https://icml.cc), [EMNLP 2020](https://2020.emnlp.org/) and [NeurIPS 2020](https://nips.cc/Conferences/2020/)). 
 
 I am also a Scientific Program Officer of the [ML in PL conference 2021](https://conference2021.mlinpl.org/), where I co-organise the first Women in ML in PL workshop and keynote talks.
 
