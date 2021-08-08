@@ -80,7 +80,7 @@ description:
 
 #### Organisation of scientific events
 
-+ **Co-organiser (Speakers Team)** @[ML in PL](https://mlinpl.org/) *2021*
++ **Scientific Program Officer** @[ML in PL](https://mlinpl.org/) *2021*
 + **Committee member** @[Oxbridge Women in Computer Science Conference 2020](https://oxbridgewomenincs8.wixsite.com/2020).
 + **Volunteer** @[NeurIPS 2019](https://nips.cc/Conferences/2019) and [NeurIPS 2018](https://nips.cc/Conferences/2018).
 + **Co-organiser** @[SFI Academic IT Festival](https://sfi.pl/en/home-page/). The biggest non-profit IT conference in Poland. *2015*
