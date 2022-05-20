@@ -22,4 +22,7 @@ date:   2021-04-13
 
 <i><span style="background-color: #20B2AA">9. Tim Marshall - Prisoners of geography </span></i>
 
+<i><span style="background-color: #20B2AA">10. Anna Dziewit-Meller - Od jednego Lucypera </span></i>
+
+<i><span style="background-color: #20B2AA">11. Natalia de Barbaro - Czuła przewodniczka </span></i>
 
